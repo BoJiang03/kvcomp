@@ -1,0 +1,2 @@
+- [ ] after rope k, block quant
+- [ ] v, pytorch quant, cuda encoding, cuda decode+dequant+mat_vec_mul(token quant first)
